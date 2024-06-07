@@ -1,6 +1,6 @@
 /*
 快速获取token
-*/24 * * * * jd_wxtoken_m.js
+ */24 * * * * jd_wxtoken_m.js
 */
 
 const $ = new Env('快速缓存token');
